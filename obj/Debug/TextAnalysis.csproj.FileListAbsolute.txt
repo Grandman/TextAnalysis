@@ -1,0 +1,8 @@
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.Cache
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
+c:\users\serg1_000\documents\visual studio 2012\Projects\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Form1.resources
